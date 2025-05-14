@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shiv-rna-mcp-server-101-badge.png)](https://mseep.ai/app/shiv-rna-mcp-server-101)
+
 # 🌐 MCP-Server-101
 
 ## 🌟 Project Overview
